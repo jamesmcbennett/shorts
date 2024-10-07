@@ -4,6 +4,11 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# about
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Complex Forming is structured to enhance students' technical skills in creating, analysing, and manipulating complex geometries through parametric design. Students will explore mathematical surfaces, tensile structures, voxel aggregation, recursion, particle-based systems, and tessellation techniques as they apply to architectural form-finding and design. Through Grasshopper3D and Python, students will engage with algorithmic thinking and computational methods to produce sophisticated, data-driven forms that can be applied throughout their time in MaCAD.
+
+# taught by
+
+Hesham Shawqy
+James McBennett
