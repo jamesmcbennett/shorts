@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-![Title Image](images/titleimage.png)
+[<img src="/images/titleimage.png" width="600" title="Hesham Shawqy">](/images/titleimage.png)
 Ph credits: courtesy of Hesham Shawqy
 
 # about
