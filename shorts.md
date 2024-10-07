@@ -11,20 +11,23 @@ permalink: /shorts
 ## video 2
 dQw4w9WgXcQ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0fErwMoGtv0?si=Z-HOuKaoIlK_lCpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+{% include youtube.html id="0fErwMoGtv0" nonce="iaacmacad" %}
 
 <details>
   <summary>Kangaroo</summary>
 
-<iframe src="https://www.youtube.com/embed/0fErwMoGtv0"
-    width="560"
-    height="315"
-    frameborder="0"
-    allowfullscreen>
+<iframe width="560"
+        height="315" 
+        src="https://www.youtube.com/embed/0fErwMoGtv0?si=Z-HOuKaoIlK_lCpu" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
 </iframe>
 
-
+{% include youtube.html id="0fErwMoGtv0" nonce="iaacmacad" %}
 
 ### Heading
   1. Foo
