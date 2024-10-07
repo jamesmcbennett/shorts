@@ -143,36 +143,36 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
   
     // First level of nesting
     & > details {
-      margin-left: 20px;
+      margin-left: 5px;
     }
   
     // Second level of nesting
     & > details > details {
-      margin-left: 40px;
+      margin-left: 10px;
     }
   
     // Third level of nesting
     & > details > details > details {
-      margin-left: 60px;
+      margin-left: 15px;
     }
   
     // Fourth level of nesting
     & > details > details > details > details {
-      margin-left: 80px;
+      margin-left: 20px;
     }
   
     // Fifth level of nesting
     & > details > details > details > details > details {
-      margin-left: 100px;
+      margin-left: 25px;
     }
   
     // Sixth level of nesting
     & > details > details > details > details > details > details {
-      margin-left: 120px;
+      margin-left: 30px;
     }
   
     // Seventh level of nesting
     & > details > details > details > details > details > details > details {
-      margin-left: 140px;
+      margin-left: 35px;
     }
 }
