@@ -13,7 +13,7 @@ dQw4w9WgXcQ
 
 <details>
   <summary>Kangaroo</summary>
-  
+  {% include youtube.html id="dQw4w9WgXcQ" %}
   ### Heading
   1. Foo
   2. Bar
