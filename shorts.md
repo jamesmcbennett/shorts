@@ -26,6 +26,10 @@ dQw4w9WgXcQ
 
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+<object data="https://www.youtube.com/embed/LgWX2sPZQsE/"
+        width="560"
+        height="315"></object>
+        
 ### Heading
   1. Foo
   2. Bar
