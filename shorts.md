@@ -6,10 +6,10 @@ permalink: /shorts
 
 # shorts
 ## video 1
-{% youtube 0fErwMoGtv0 500 400 %}
+0fErwMoGtv0
 
 ## video 2
-{% youtube dQw4w9WgXcQ %}
+dQw4w9WgXcQ
 
 ---
 accordion: 
