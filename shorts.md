@@ -6,24 +6,25 @@ permalink: /shorts
 
 # shorts
 <details>
-  <summary>Kangaroo</summary>
-    {% include youtube.html id="0fErwMoGtv0" %}
-</details>
-
-
-<details>
-<summary>Section A</summary>
-  <details>
-  <summary>Section A.B</summary>
-    <details>
-    <summary>Section A.B.C</summary>
-      <details>
-      <summary>Section A.B.C.D</summary>
+    <summary>grasshopper</summary>
         <details>
-        <summary>Section A.B.C.D.E</summary>
-          {% include youtube.html id="0fErwMoGtv0" %}
+            <summary>basics</summary>
+                <details>
+                    <summary>interface</summary>
+                    {% include youtube.html id="0_XHG3OMI5xY" %}
+                </details>
+                <details>
+                    <summary>geometry</summary>
+                    {% include youtube.html id="0_XHG3OMI5xY" %}
+                </details>
+                <details>
+                    <summary>data trees</summary>
+                    {% include youtube.html id="0_XHG3OMI5xY" %}
+                </details>
+                <details>
+                    <summary>vectors</summary>
+                    {% include youtube.html id="0_XHG3OMI5xY" %}
+                </details>
         </details>
-      </details>
-    </details>
-  </details>
 </details>
+
