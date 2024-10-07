@@ -7,5 +7,5 @@ permalink: /shorts
 # shorts
 <details>
   <summary>Kangaroo</summary>
-    {% include youtube.html id="0fErwMoGtv0" nonce="iaacmacad" %}
+    {% include youtube.html id="0fErwMoGtv0" %}
 </details>
