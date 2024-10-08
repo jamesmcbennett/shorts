@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-[<img src="{{ '/images/titleimage.png' | relative_url }}" width="600" title="Hesham Shawqy">]({{ '/images/titleimage.png' | relative_url }})
+![Hesham Shawqy Image]({{ "/images/titleimage.png" | relative_url }})
 Ph credits: courtesy of Hesham Shawqy
 
 # about
