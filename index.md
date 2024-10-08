@@ -4,9 +4,7 @@ layout: home
 permalink: /
 ---
 
-![Hesham Shawqy Image]({{ "images/titlepage.png" | relative_url }})
-
-![screenshot](images/titlepage.png)
+<img src="{{ '/images/titlepage.png' | relative_url }}" alt="Title Image" style="width: 100%;">
 Ph credits: courtesy of Hesham Shawqy
 
 # about
